@@ -1,0 +1,29 @@
+{
+  "name": "stremio-onepace",
+  "version": "1.0.0",
+  "description": "One Pace addon for Stremio",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test/*",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fedew04/OnePaceStremio"
+  },
+  "keywords": [
+    "stremio",
+    "stremio-addons",
+    "addons"
+  ],
+  "author": "fedew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fedew04/OnePaceStremio/issues"
+  },
+  "homepage": "https://github.com/fedew04/OnePaceStremio",
+  "dependencies": {
+    "magnet-uri": "^6.2.0",
+    "stremio-addon-sdk": "^1.6.10"
+  }
+}
