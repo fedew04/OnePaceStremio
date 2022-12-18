@@ -17,7 +17,7 @@ const manifest = {
             "types": ["series"],
             "idPrefixes": ["pp"]
         },
-        "streams"
+        "stream"
     ],
 
     "types": ["series"], // your add-on will be preferred for these content types
@@ -41,7 +41,7 @@ const builder = new addonBuilder(manifest);
 
 function getMovieMeta(id) {
     const metas = {
-        pp_onepace: {
+        "pp_onepace": {
             id: "pp_onepace",
             type: "series",
             name: "One Pace",
