@@ -10,39 +10,149 @@ const manifest = {
     //"icon": "URL to 256x256 monochrome png icon", 
     //"background": "URL to 1024x786 png/jpg background",
 
-    // set what type of resources we will return
     "resources": [
         "catalog",
-        "stream"
+        {
+            "name": "meta",
+            "types": ["series"],
+            "idPrefixes": ["pp"]
+        },
+        "streams"
     ],
 
-    "types": ["movie", "series"], // your add-on will be preferred for these content types
+    "types": ["series"], // your add-on will be preferred for these content types
 
     "catalogs": [
         {
-            type: 'movie',
-            id: 'helloworldmovies'
-        },
-        {
             type: 'series',
-            id: 'helloworldseries'
+            id: 'top',
+            "extra": [
+                { "name": "skip", "isRequired": false },
+                { "name": "search", "isRequired": false },
+            ]
         }
     ],
 
-    // prefix of item IDs (ie: "tt0032138")
-    "idPrefixes": [ "tt" ]
-
 };
+
+
 
 const builder = new addonBuilder(manifest);
 
-const dataset = {
+function getMovieMeta(id) {
+    const metas = {
+        pp_onepace: {
+            id: "pp_onepace",
+            type: "series",
+            name: "One Pace",
+            poster: "https://i.pinimg.com/originals/eb/85/c4/eb85c4376b474030b80afa80ad1cd13a.jpg",
+            genres: ["Animation", "Comedy"],
+            description: "One Piece but better",
+            cast: ["Luffy, Nami, Zoro, etc"],
+            director: ["Toei Animation"],
+            logo: "https://i0.wp.com/onepace.watch/wp-content/uploads/2022/03/onepace-e1647957355458.png",
+            background: "https://wallpaperaccess.com/full/17350.jpg",
+            runtime: "Very long"
+        },
+    }
+    Promise.resolve(metas[id] || null)
+}
+
+builder.defineMetaHandler(({ type, id }) => {
+    // Docs: https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/api/requests/defineMetaHandler.md
+    let results;
+
+    switch (type) {
+        case 'series':
+            results = getMovieMeta(id)
+            break
+        default:
+            results = null
+            break
+    }
+    return Promise.resolve({ meta: results })
+})
+
+function getSeriesStreams(id) {
+    const streams = {
+        pp_onepace: [
+            { "title": "Web, 3 MBps, HD", "url": "http://jell.yfish.us/media/jellyfish-3-mbps-hd-h264.mkv" },
+            { "title 2": "Web 15 MBps, HD", "url": "http://jell.yfish.us/media/jellyfish-15-mbps-hd-h264.mkv" },
+            { "title 3": "Web, 120 MBps, 4K", "url": "http://jell.yfish.us/media/jellyfish-120-mbps-4k-uhd-h264.mkv" }
+        ]
+    }
+    return Promise.resolve(streams[id] || [])
+}
+
+builder.defineStreamHandler(({ type, id }) => {
+    // Docs: https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/api/requests/defineStreamHandler.md
+    let results;
+
+    switch (type) {
+        case 'series':
+            results = getSeriesStreams(id)
+            break
+        default:
+            results = Promise.resolve([])
+            break
+    }
+    return results.then(streams => ({ streams }))
+})
+
+// Populate the catalog from somewhere
+function getSeriesCatalog(catalogName) {
+    let catalog;
+
+    switch (catalogName) {
+        case "top":
+            catalog = [
+                {
+                    id: "pp_onepace",
+                    type: "series",
+                    name: "One Pace",
+                    poster: "https://i.pinimg.com/originals/eb/85/c4/eb85c4376b474030b80afa80ad1cd13a.jpg",
+                    genres: ["Animation", "Comedy"]
+                }
+            ]
+            break
+        default:
+            catalog = []
+            break
+    }
+
+    return Promise.resolve(catalog)
+}
+
+// Docs: https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/api/requests/defineCatalogHandler.md
+builder.defineCatalogHandler(({ type, id, extra }) => {
+    let results;
+
+    switch (type) {
+        case "series":
+            results = getSeriesCatalog(id)
+            break
+        default:
+            results = Promise.resolve([])
+            break
+    }
+    if (extra.search) {
+        return results.then(items => ({
+            metas: items.filter(meta => meta.name
+                .toLowercase()
+                .includes(extra.search.toLowerCase()))
+        }))
+    }
+
+    const skip = extra.skip || 0;
+    return results.then(items => ({
+        metas: items.slice(skip, skip + 100)
+    }))
+})
+
+/*const dataset = {
     // Some examples of streams we can serve back to Stremio ; see https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/api/responses/stream.md
-    "tt0051744": { name: "House on Haunted Hill", type: "movie", infoHash: "9f86563ce2ed86bbfedd5d3e9f4e55aedd660960" }, // torrent
-    "tt1254207": { name: "Big Buck Bunny", type: "movie", url: "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" }, // HTTP stream
-    "tt0031051": { name: "The Arizone Kid", type: "movie", ytId: "m3BKVSpP80s" }, // YouTube stream
-    //"tt0137523": { name: "Fight Club", type: "movie", externalUrl: "https://www.netflix.com/watch/26004747" }, // redirects to Netflix
-    "tt1748166:1:1": { name: "One Pace", type: "series", infoHash: "07a9de9750158471c3302e4e95edb1107f980fa6" }, // torrent for season 1, episode 1
+    "tt9998999:1:1": { name: "One Pace", type: "series", infoHash: "1ef273f42db2c163f28c1a740498281a571e3604" }, // torrent for season 1, episode 1
+    "tt9998999:1:2": { name: "One Pace", type: "series", infoHash: "b5a0d39d7b1eda73ccb3d70ddfa608e7834b84ce" },
 };
 
 // Streams handler
@@ -65,7 +175,7 @@ const generateMetaPreview = function(value, key) {
         id: imdbId,
         type: value.type,
         name: value.name,
-        poster: METAHUB_URL+"/poster/medium/"+imdbId+"/img",
+        poster: "https://i.pinimg.com/originals/eb/85/c4/eb85c4376b474030b80afa80ad1cd13a.jpg",
     }
 }
 
@@ -76,6 +186,6 @@ builder.defineCatalogHandler(function(args, cb) {
         .map(([key, value]) => generateMetaPreview(value, key))
 
     return Promise.resolve({ metas: metas })
-})
+})*/
 
 module.exports = builder.getInterface()
