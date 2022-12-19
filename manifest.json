@@ -1,0 +1,32 @@
+{
+    "id": "com.onepace.fedew",
+    "version": "1.0.0",
+    "name": "One Pace Addon",
+    "description": "One Pace addon for Stremio",
+ 
+
+    "logo": "https://i.pinimg.com/originals/4c/46/ee/4c46ee47e0710a6d928454f68fc4ee17.png",
+    "resources": [
+        "catalog",
+        {
+            "name": "meta",
+            "types": [
+                "series"
+            ],
+            "idPrefixes": [
+                "pp"
+            ]
+        },
+        "stream"
+    ],
+    "types": [
+        "series"
+    ], 
+    "catalogs": [
+        {
+            "type": "series",
+            "id": "seriesCatalog",
+            "name": "One Pace"
+        }
+    ]
+}
