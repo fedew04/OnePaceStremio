@@ -1,0 +1,2509 @@
+{
+    "meta": {
+        "id": "pp_onepace",
+        "type": "series",
+        "name": "One Pace",
+        "poster": "https://i.pinimg.com/originals/eb/85/c4/eb85c4376b474030b80afa80ad1cd13a.jpg",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Adventure",
+            "Action"
+        ],
+        "description": "One Pace is a fan project that recuts the One Piece anime in an endeavor to bring it more in line with the pacing of the original manga by Eiichiro Oda. The team accomplishes this by removing filler scenes not present in the source material. This process requires meticulous editing and quality control to ensure seamless music and transitions.",
+        "cast": [
+            "Luffy, Nami, Zoro, etc"
+        ],
+        "director": [
+            "Toei Animation"
+        ],
+        "logo": "https://cdn.discordapp.com/attachments/1047295354816696401/1053877595135021116/one-pace-logo.png",
+        "background": "https://wallpaperaccess.com/full/17350.jpg",
+        "videos": [
+            {
+                "season": 1,
+                "episode": 1,
+                "id": "RO_1",
+                "title": "Romance Dawn, the Dawn of an Adventure"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "id": "RO_2",
+                "title": "They Call Him 'Straw Hat' Luffy"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "id": "RO_3",
+                "title": "The Pirate King and the Master Swordsman"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "id": "RO_4",
+                "title": "The First"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "id": "OR_1",
+                "title": "Enter: Nami"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "id": "OR_2",
+                "title": "Treasure"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "id": "OR_3",
+                "title": "Pirate Buggy 'the Clown'"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "id": "SY_1",
+                "title": "Captain Usopp"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "id": "SY_2",
+                "title": "Captain Kuro"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "id": "SY_3",
+                "title": "The Slope"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "id": "SY_4",
+                "title": "The Silent Man"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "id": "SY_5",
+                "title": "For Whom the Bell Tolls"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "id": "SY_6",
+                "title": "To the Sea"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "id": "GA_1",
+                "title": "You're the Rare Breed"
+            },
+            {
+                "season": 5,
+                "episode": 1,
+                "id": "BA_1",
+                "title": "Enter: Sanji"
+            },
+            {
+                "season": 5,
+                "episode": 2,
+                "id": "BA_2",
+                "title": "Pirate Commodore Don Krieg"
+            },
+            {
+                "season": 5,
+                "episode": 3,
+                "id": "BA_3",
+                "title": "Storm"
+            },
+            {
+                "season": 5,
+                "episode": 4,
+                "id": "BA_4",
+                "title": "Unreleased"
+            },
+            {
+                "season": 5,
+                "episode": 5,
+                "id": "BA_5",
+                "title": "Unreleased"
+            },
+            {
+                "season": 5,
+                "episode": 6,
+                "id": "BA_6",
+                "title": "Unreleased"
+            },
+            {
+                "season": 5,
+                "episode": 7,
+                "id": "BA_7",
+                "title": "Unreleased"
+            },
+            {
+                "season": 5,
+                "episode": 8,
+                "id": "BA_8",
+                "title": "Unreleased"
+            },
+            {
+                "season": 5,
+                "episode": 9,
+                "id": "BA_9",
+                "title": "Unreleased"
+            },
+            {
+                "season": 6,
+                "episode": 1,
+                "id": "AR_1",
+                "title": "Arlong Park"
+            },
+            {
+                "season": 6,
+                "episode": 2,
+                "id": "AR_2",
+                "title": "Monsters of the Grand Line"
+            },
+            {
+                "season": 6,
+                "episode": 3,
+                "id": "AR_3",
+                "title": "Sea Charts and Fishmen"
+            },
+            {
+                "season": 6,
+                "episode": 4,
+                "id": "AR_4",
+                "title": "Bell-mère-san"
+            },
+            {
+                "season": 6,
+                "episode": 5,
+                "id": "AR_5",
+                "title": "Live"
+            },
+            {
+                "season": 6,
+                "episode": 6,
+                "id": "AR_6",
+                "title": "OK, LET'S STAND UP"
+            },
+            {
+                "season": 6,
+                "episode": 7,
+                "id": "AR_7",
+                "title": "Chivalry vs. Fishman Karate"
+            },
+            {
+                "season": 6,
+                "episode": 8,
+                "id": "AR_8",
+                "title": "My Turn"
+            },
+            {
+                "season": 6,
+                "episode": 9,
+                "id": "AR_9",
+                "title": "Happiness"
+            },
+            {
+                "season": 6,
+                "episode": 10,
+                "id": "AR_10",
+                "title": "Spin, Pinwheel, Spin"
+            },
+            {
+                "season": 7,
+                "episode": 1,
+                "id": "LO_1",
+                "title": "The Town of Beginnings and Endings"
+            },
+            {
+                "season": 7,
+                "episode": 2,
+                "id": "LO_2",
+                "title": "Parallels"
+            },
+            {
+                "season": 7,
+                "episode": 3,
+                "id": "LO_3",
+                "title": "The Legend Has Begun"
+            },
+            {
+                "season": 8,
+                "episode": 1,
+                "id": "RM_1",
+                "title": "Reverse Mountain"
+            },
+            {
+                "season": 8,
+                "episode": 2,
+                "id": "RM_2",
+                "title": "Cape Promise"
+            },
+            {
+                "season": 9,
+                "episode": 1,
+                "id": "WH_1",
+                "title": "The Town of Celebration"
+            },
+            {
+                "season": 9,
+                "episode": 2,
+                "id": "WH_2",
+                "title": "The Secret Criminal Organization"
+            },
+            {
+                "season": 10,
+                "episode": 1,
+                "id": "LI_1",
+                "title": "Adventure on Little Garden"
+            },
+            {
+                "season": 10,
+                "episode": 2,
+                "id": "LI_2",
+                "title": "Dorry and Brogy"
+            },
+            {
+                "season": 10,
+                "episode": 3,
+                "id": "LI_3",
+                "title": "Foul Play"
+            },
+            {
+                "season": 10,
+                "episode": 4,
+                "id": "LI_4",
+                "title": "Luffy vs. Mr. 3"
+            },
+            {
+                "season": 10,
+                "episode": 5,
+                "id": "LI_5",
+                "title": "Straight Ahead!!"
+            },
+            {
+                "season": 11,
+                "episode": 1,
+                "id": "DI_1",
+                "title": "Tin Plate Wapol"
+            },
+            {
+                "season": 11,
+                "episode": 2,
+                "id": "DI_2",
+                "title": "Adventure in a Nameless Country"
+            },
+            {
+                "season": 11,
+                "episode": 3,
+                "id": "DI_3",
+                "title": "The Summit"
+            },
+            {
+                "season": 11,
+                "episode": 4,
+                "id": "DI_4",
+                "title": "Enter: Tony Tony Chopper"
+            },
+            {
+                "season": 11,
+                "episode": 5,
+                "id": "DI_5",
+                "title": "Unreleased"
+            },
+            {
+                "season": 11,
+                "episode": 6,
+                "id": "DI_6",
+                "title": "Unreleased"
+            },
+            {
+                "season": 11,
+                "episode": 7,
+                "id": "DI_7",
+                "title": "Unreleased"
+            },
+            {
+                "season": 11,
+                "episode": 8,
+                "id": "DI_8",
+                "title": "Unreleased"
+            },
+            {
+                "season": 11,
+                "episode": 9,
+                "id": "DI_9",
+                "title": "Unreleased"
+            },
+            {
+                "season": 12,
+                "episode": 1,
+                "id": "AL_1",
+                "title": "Sir Crocodile, the Pirate"
+            },
+            {
+                "season": 12,
+                "episode": 2,
+                "id": "AL_2",
+                "title": "Landfall in Arabasta"
+            },
+            {
+                "season": 12,
+                "episode": 3,
+                "id": "AL_3",
+                "title": "Adventure in the Kingdom of Sand"
+            },
+            {
+                "season": 12,
+                "episode": 4,
+                "id": "AL_4",
+                "title": "Yuba, the Town of Rebels"
+            },
+            {
+                "season": 12,
+                "episode": 5,
+                "id": "AL_5",
+                "title": "I Love My Country"
+            },
+            {
+                "season": 12,
+                "episode": 6,
+                "id": "AL_6",
+                "title": "Rainbase, the City of Dreams"
+            },
+            {
+                "season": 12,
+                "episode": 7,
+                "id": "AL_7",
+                "title": "It Begins"
+            },
+            {
+                "season": 12,
+                "episode": 8,
+                "id": "AL_8",
+                "title": "Rebellion"
+            },
+            {
+                "season": 12,
+                "episode": 9,
+                "id": "AL_9",
+                "title": "Rush!!"
+            },
+            {
+                "season": 12,
+                "episode": 10,
+                "id": "AL_10",
+                "title": "Showdown at Alubarna"
+            },
+            {
+                "season": 12,
+                "episode": 11,
+                "id": "AL_11",
+                "title": "Molehill Zone Four"
+            },
+            {
+                "season": 12,
+                "episode": 12,
+                "id": "AL_12",
+                "title": "Okama Kenpo"
+            },
+            {
+                "season": 12,
+                "episode": 13,
+                "id": "AL_13",
+                "title": "She Who Controls the Weather"
+            },
+            {
+                "season": 12,
+                "episode": 14,
+                "id": "AL_14",
+                "title": "Unreleased"
+            },
+            {
+                "season": 12,
+                "episode": 15,
+                "id": "AL_15",
+                "title": "Unreleased"
+            },
+            {
+                "season": 12,
+                "episode": 16,
+                "id": "AL_16",
+                "title": "Unreleased"
+            },
+            {
+                "season": 12,
+                "episode": 17,
+                "id": "AL_17",
+                "title": "Unreleased"
+            },
+            {
+                "season": 12,
+                "episode": 18,
+                "id": "AL_18",
+                "title": "Unreleased"
+            },
+            {
+                "season": 12,
+                "episode": 19,
+                "id": "AL_19",
+                "title": "Unreleased"
+            },
+            {
+                "season": 12,
+                "episode": 20,
+                "id": "AL_20",
+                "title": "Unreleased"
+            },
+            {
+                "season": 12,
+                "episode": 21,
+                "id": "AL_21",
+                "title": "Unreleased"
+            },
+            {
+                "season": 13,
+                "episode": 1,
+                "id": "JA_1",
+                "title": "Unreleased"
+            },
+            {
+                "season": 13,
+                "episode": 2,
+                "id": "JA_2",
+                "title": "Unreleased"
+            },
+            {
+                "season": 13,
+                "episode": 3,
+                "id": "JA_3",
+                "title": "Unreleased"
+            },
+            {
+                "season": 13,
+                "episode": 4,
+                "id": "JA_4",
+                "title": "Unreleased"
+            },
+            {
+                "season": 13,
+                "episode": 5,
+                "id": "JA_5",
+                "title": "Unreleased"
+            },
+            {
+                "season": 13,
+                "episode": 6,
+                "id": "JA_6",
+                "title": "Unreleased"
+            },
+            {
+                "season": 13,
+                "episode": 7,
+                "id": "JA_7",
+                "title": "Unreleased"
+            },
+            {
+                "season": 13,
+                "episode": 8,
+                "id": "JA_8",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 1,
+                "id": "SK_1",
+                "title": "Heaven's Gate"
+            },
+            {
+                "season": 14,
+                "episode": 2,
+                "id": "SK_2",
+                "title": "Angel Beach"
+            },
+            {
+                "season": 14,
+                "episode": 3,
+                "id": "SK_3",
+                "title": "Divine Judgment"
+            },
+            {
+                "season": 14,
+                "episode": 4,
+                "id": "SK_4",
+                "title": "Ordeal"
+            },
+            {
+                "season": 14,
+                "episode": 5,
+                "id": "SK_5",
+                "title": "Satori, Priest of the Forest of No Return"
+            },
+            {
+                "season": 14,
+                "episode": 6,
+                "id": "SK_6",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 7,
+                "id": "SK_7",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 8,
+                "id": "SK_8",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 9,
+                "id": "SK_9",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 10,
+                "id": "SK_10",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 11,
+                "id": "SK_11",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 12,
+                "id": "SK_12",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 13,
+                "id": "SK_13",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 14,
+                "id": "SK_14",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 15,
+                "id": "SK_15",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 16,
+                "id": "SK_16",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 17,
+                "id": "SK_17",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 18,
+                "id": "SK_18",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 19,
+                "id": "SK_19",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 20,
+                "id": "SK_20",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 21,
+                "id": "SK_21",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 22,
+                "id": "SK_22",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 23,
+                "id": "SK_23",
+                "title": "Unreleased"
+            },
+            {
+                "season": 14,
+                "episode": 24,
+                "id": "SK_24",
+                "title": "Unreleased"
+            },
+            {
+                "season": 15,
+                "episode": 1,
+                "id": "LR_1",
+                "title": "Adventure on a Long Island"
+            },
+            {
+                "season": 15,
+                "episode": 2,
+                "id": "LR_2",
+                "title": "Donut Race!!"
+            },
+            {
+                "season": 15,
+                "episode": 3,
+                "id": "LR_3",
+                "title": "Groggy Ring!!"
+            },
+            {
+                "season": 15,
+                "episode": 4,
+                "id": "LR_4",
+                "title": "Combat"
+            },
+            {
+                "season": 15,
+                "episode": 5,
+                "id": "LR_5",
+                "title": "K.O."
+            },
+            {
+                "season": 15,
+                "episode": 6,
+                "id": "LR_6",
+                "title": "Navy HQ Admiral Aokiji"
+            },
+            {
+                "season": 16,
+                "episode": 1,
+                "id": "WS_1",
+                "title": "The City of Water, Water Seven"
+            },
+            {
+                "season": 16,
+                "episode": 2,
+                "id": "WS_2",
+                "title": "Iceburg-san"
+            },
+            {
+                "season": 16,
+                "episode": 3,
+                "id": "WS_3",
+                "title": "The Case of the Kidnapped Pirate"
+            },
+            {
+                "season": 16,
+                "episode": 4,
+                "id": "WS_4",
+                "title": "Impasse"
+            },
+            {
+                "season": 16,
+                "episode": 5,
+                "id": "WS_5",
+                "title": "Luffy vs. Usopp"
+            },
+            {
+                "season": 16,
+                "episode": 6,
+                "id": "WS_6",
+                "title": "Warning"
+            },
+            {
+                "season": 16,
+                "episode": 7,
+                "id": "WS_7",
+                "title": "Rumors"
+            },
+            {
+                "season": 16,
+                "episode": 8,
+                "id": "WS_8",
+                "title": "Devil"
+            },
+            {
+                "season": 16,
+                "episode": 9,
+                "id": "WS_9",
+                "title": "Cipher Pol No. 9"
+            },
+            {
+                "season": 16,
+                "episode": 10,
+                "id": "WS_10",
+                "title": "Six Powers"
+            },
+            {
+                "season": 16,
+                "episode": 11,
+                "id": "WS_11",
+                "title": "Klabautermann"
+            },
+            {
+                "season": 16,
+                "episode": 12,
+                "id": "WS_12",
+                "title": "The Legendary Shipwright"
+            },
+            {
+                "season": 16,
+                "episode": 13,
+                "id": "WS_13",
+                "title": "Tom-san"
+            },
+            {
+                "season": 16,
+                "episode": 14,
+                "id": "WS_14",
+                "title": "Unreleased"
+            },
+            {
+                "season": 16,
+                "episode": 15,
+                "id": "WS_15",
+                "title": "Unreleased"
+            },
+            {
+                "season": 16,
+                "episode": 16,
+                "id": "WS_16",
+                "title": "Unreleased"
+            },
+            {
+                "season": 16,
+                "episode": 17,
+                "id": "WS_17",
+                "title": "Unreleased"
+            },
+            {
+                "season": 16,
+                "episode": 18,
+                "id": "WS_18",
+                "title": "Unreleased"
+            },
+            {
+                "season": 16,
+                "episode": 19,
+                "id": "WS_19",
+                "title": "Unreleased"
+            },
+            {
+                "season": 16,
+                "episode": 20,
+                "id": "WS_20",
+                "title": "Unreleased"
+            },
+            {
+                "season": 17,
+                "episode": 1,
+                "id": "EN_1",
+                "title": "The Superhumans of Enies Lobby"
+            },
+            {
+                "season": 17,
+                "episode": 2,
+                "id": "EN_2",
+                "title": "The Big Showdown on the Judiciary Island!!"
+            },
+            {
+                "season": 17,
+                "episode": 3,
+                "id": "EN_3",
+                "title": "Express to Enies Lobby, Main Island"
+            },
+            {
+                "season": 17,
+                "episode": 4,
+                "id": "EN_4",
+                "title": "Fired"
+            },
+            {
+                "season": 17,
+                "episode": 5,
+                "id": "EN_5",
+                "title": "Raise the Counterattack Signal"
+            },
+            {
+                "season": 17,
+                "episode": 6,
+                "id": "EN_6",
+                "title": "Unprecedented"
+            },
+            {
+                "season": 17,
+                "episode": 7,
+                "id": "EN_7",
+                "title": "Gear Second"
+            },
+            {
+                "season": 17,
+                "episode": 8,
+                "id": "EN_8",
+                "title": "The Girl They Called a Devil"
+            },
+            {
+                "season": 17,
+                "episode": 9,
+                "id": "EN_9",
+                "title": "Ohara vs. The World Government"
+            },
+            {
+                "season": 17,
+                "episode": 10,
+                "id": "EN_10",
+                "title": "Declaration of War"
+            },
+            {
+                "season": 17,
+                "episode": 11,
+                "id": "EN_11",
+                "title": "Jump into the Waterfall!!"
+            },
+            {
+                "season": 17,
+                "episode": 12,
+                "id": "EN_12",
+                "title": "Pirates vs. CP9"
+            },
+            {
+                "season": 17,
+                "episode": 13,
+                "id": "EN_13",
+                "title": "Mr. Chivalry"
+            },
+            {
+                "season": 17,
+                "episode": 14,
+                "id": "EN_14",
+                "title": "Vital Response"
+            },
+            {
+                "season": 17,
+                "episode": 15,
+                "id": "EN_15",
+                "title": "Monster"
+            },
+            {
+                "season": 17,
+                "episode": 16,
+                "id": "EN_16",
+                "title": "The Terrifying Emergency Broadcast"
+            },
+            {
+                "season": 17,
+                "episode": 17,
+                "id": "EN_17",
+                "title": "The Hunter"
+            },
+            {
+                "season": 17,
+                "episode": 18,
+                "id": "EN_18",
+                "title": "Sanji vs. Jabra"
+            },
+            {
+                "season": 17,
+                "episode": 19,
+                "id": "EN_19",
+                "title": "Zoro vs. Kaku"
+            },
+            {
+                "season": 17,
+                "episode": 20,
+                "id": "EN_20",
+                "title": "Buster Call"
+            },
+            {
+                "season": 17,
+                "episode": 21,
+                "id": "EN_21",
+                "title": "Rob Lucci"
+            },
+            {
+                "season": 17,
+                "episode": 22,
+                "id": "EN_22",
+                "title": "The Legend of the Mermaid"
+            },
+            {
+                "season": 17,
+                "episode": 23,
+                "id": "EN_23",
+                "title": "We're Not in Hell"
+            },
+            {
+                "season": 17,
+                "episode": 24,
+                "id": "EN_24",
+                "title": "Utter Defeat"
+            },
+            {
+                "season": 17,
+                "episode": 25,
+                "id": "EN_25",
+                "title": "A Gentle Snowfall of Remembrance"
+            },
+            {
+                "season": 18,
+                "episode": 1,
+                "id": "PEN_1",
+                "title": "The Strongest Family Lineage?! The Vice-Admiral and The Revolutionary!"
+            },
+            {
+                "season": 18,
+                "episode": 2,
+                "id": "PEN_2",
+                "title": "The Extent of the Grand Line and The 600,000,000 Crew!"
+            },
+            {
+                "season": 18,
+                "episode": 3,
+                "id": "PEN_3",
+                "title": "Forgive Yourself! Franky Departs!"
+            },
+            {
+                "season": 18,
+                "episode": 4,
+                "id": "PEN_4",
+                "title": "The Astonishing Thousand Sunny and Usopp's Tearful Apology!"
+            },
+            {
+                "season": 18,
+                "episode": 5,
+                "id": "PEN_5",
+                "title": "The Circling Bounties and The Duel on Banaro Island!"
+            },
+            {
+                "season": 19,
+                "episode": 1,
+                "id": "TB_1",
+                "title": "The Mysterious Sea and The Skeleton Brook!"
+            },
+            {
+                "season": 19,
+                "episode": 2,
+                "id": "TB_2",
+                "title": "Adventure on the Ghost Island and the Famous Doctor Hogback!"
+            },
+            {
+                "season": 19,
+                "episode": 3,
+                "id": "TB_3",
+                "title": "The Invisible Man and the Secret of the Mansion!"
+            },
+            {
+                "season": 19,
+                "episode": 4,
+                "id": "TB_4",
+                "title": "General Zombie Night! Thriller Bark's Mysterious Four"
+            },
+            {
+                "season": 19,
+                "episode": 5,
+                "id": "TB_5",
+                "title": "Perona's Wonder Garden and the Charge of the General Zombies!"
+            },
+            {
+                "season": 19,
+                "episode": 6,
+                "id": "TB_6",
+                "title": "Number 900?! Lola's Pursuit and the Humming Swordsman"
+            },
+            {
+                "season": 19,
+                "episode": 7,
+                "id": "TB_7",
+                "title": "The Fearsome Ability of the Shadow Fruit! The Ultimate Number 900!"
+            },
+            {
+                "season": 19,
+                "episode": 8,
+                "id": "TB_8",
+                "title": "Oars' Awakening and Brook vs. Ryuma!"
+            },
+            {
+                "season": 19,
+                "episode": 9,
+                "id": "TB_9",
+                "title": "The Hope and Despair of the Skeleton and the Straw Hats' Counterattack!"
+            },
+            {
+                "season": 19,
+                "episode": 10,
+                "id": "TB_10",
+                "title": "Already Negative! Usopp's Courageous Stand!"
+            },
+            {
+                "season": 19,
+                "episode": 11,
+                "id": "TB_11",
+                "title": "A Stolen Dream! Sanji vs. Absalom"
+            },
+            {
+                "season": 19,
+                "episode": 12,
+                "id": "TB_12",
+                "title": "Perona's Terror! Usopp vs. the Ghost Princess!"
+            },
+            {
+                "season": 19,
+                "episode": 13,
+                "id": "TB_13",
+                "title": "Zoro vs. Ryuuma and Chopper's Rage!"
+            },
+            {
+                "season": 19,
+                "episode": 14,
+                "id": "TB_14",
+                "title": "Show Yourselves, Straw Hat Pirates! The Crew's Hopeless Counterattack!"
+            },
+            {
+                "season": 19,
+                "episode": 15,
+                "id": "TB_15",
+                "title": "Clash! The Titanic Battle Against Zombie 900!"
+            },
+            {
+                "season": 19,
+                "episode": 16,
+                "id": "TB_16",
+                "title": "The Mysterious Visitor! The Two Warlords Meet!"
+            },
+            {
+                "season": 19,
+                "episode": 17,
+                "id": "TB_17",
+                "title": "Combination of Brains and Brawn! Oars and Moriah vs. the Straw Hats!"
+            },
+            {
+                "season": 19,
+                "episode": 18,
+                "id": "TB_18",
+                "title": "The Crew's Annihilation! Oars vs. Nightmare Luffy"
+            },
+            {
+                "season": 19,
+                "episode": 19,
+                "id": "TB_19",
+                "title": "Morning Comes! The Straw Hats' Ultimate Attack!"
+            },
+            {
+                "season": 19,
+                "episode": 20,
+                "id": "TB_20",
+                "title": "The Power That Can Deflect Anything?! Zoro Fights Prepared to Die!"
+            },
+            {
+                "season": 19,
+                "episode": 21,
+                "id": "TB_21",
+                "title": "Brook's Past! The Rumbar Pirates and Laboon!"
+            },
+            {
+                "season": 19,
+                "episode": 22,
+                "id": "TB_22",
+                "title": "Brook's Promise! The Eighth Member"
+            },
+            {
+                "season": 20,
+                "episode": 1,
+                "id": "SAB_1",
+                "title": "Flying Fish Riders"
+            },
+            {
+                "season": 20,
+                "episode": 2,
+                "id": "SAB_2",
+                "title": "Iron Mask Duval"
+            },
+            {
+                "season": 20,
+                "episode": 3,
+                "id": "SAB_3",
+                "title": "Duval's Tragedy"
+            },
+            {
+                "season": 20,
+                "episode": 4,
+                "id": "SAB_4",
+                "title": "Adventure on the Archipelago of Dancing Soap Bubbles"
+            },
+            {
+                "season": 20,
+                "episode": 5,
+                "id": "SAB_5",
+                "title": "The Embers of History"
+            },
+            {
+                "season": 20,
+                "episode": 6,
+                "id": "SAB_6",
+                "title": "The Auction House Incident"
+            },
+            {
+                "season": 20,
+                "episode": 7,
+                "id": "SAB_7",
+                "title": "An Island in Chaos"
+            },
+            {
+                "season": 20,
+                "episode": 8,
+                "id": "SAB_8",
+                "title": "Roger and Rayleigh"
+            },
+            {
+                "season": 20,
+                "episode": 9,
+                "id": "SAB_9",
+                "title": "Kizaru Arrives"
+            },
+            {
+                "season": 20,
+                "episode": 10,
+                "id": "SAB_10",
+                "title": "Kizaru vs. the Four Captains"
+            },
+            {
+                "season": 20,
+                "episode": 11,
+                "id": "SAB_11",
+                "title": "I Couldn't Save Them!!!"
+            },
+            {
+                "season": 21,
+                "episode": 1,
+                "id": "AM_1",
+                "title": "Adventure on the Island of Women"
+            },
+            {
+                "season": 21,
+                "episode": 2,
+                "id": "AM_2",
+                "title": "Pirate Empress Boa Hancock"
+            },
+            {
+                "season": 21,
+                "episode": 3,
+                "id": "AM_3",
+                "title": "The Arena"
+            },
+            {
+                "season": 21,
+                "episode": 4,
+                "id": "AM_4",
+                "title": "Hancock's Confession"
+            },
+            {
+                "season": 21,
+                "episode": 5,
+                "id": "AM_5",
+                "title": "No One Can Stop This Now"
+            },
+            {
+                "season": 22,
+                "episode": 1,
+                "id": "IM_1",
+                "title": "The Underwater Prison, Impel Down"
+            },
+            {
+                "season": 22,
+                "episode": 2,
+                "id": "IM_2",
+                "title": "First Son of the Sea"
+            },
+            {
+                "season": 22,
+                "episode": 3,
+                "id": "IM_3",
+                "title": "From One Hell to Another"
+            },
+            {
+                "season": 22,
+                "episode": 4,
+                "id": "IM_4",
+                "title": "Inferno Hell"
+            },
+            {
+                "season": 22,
+                "episode": 5,
+                "id": "IM_5",
+                "title": "Friend"
+            },
+            {
+                "season": 22,
+                "episode": 6,
+                "id": "IM_6",
+                "title": "A Ray of Hope"
+            },
+            {
+                "season": 22,
+                "episode": 7,
+                "id": "IM_7",
+                "title": "Infinite Hell"
+            },
+            {
+                "season": 22,
+                "episode": 8,
+                "id": "IM_8",
+                "title": "Yet Another Epic Incident"
+            },
+            {
+                "season": 22,
+                "episode": 9,
+                "id": "IM_9",
+                "title": "To Sunshine and Freedom"
+            },
+            {
+                "season": 22,
+                "episode": 10,
+                "id": "IM_10",
+                "title": "Thank You"
+            },
+            {
+                "season": 23,
+                "episode": 1,
+                "id": "MA_1",
+                "title": "Navy Headquarters"
+            },
+            {
+                "season": 23,
+                "episode": 2,
+                "id": "MA_2",
+                "title": "Ace and Whitebeard"
+            },
+            {
+                "season": 23,
+                "episode": 3,
+                "id": "MA_3",
+                "title": "Conflict at the Summit"
+            },
+            {
+                "season": 23,
+                "episode": 4,
+                "id": "MA_4",
+                "title": "Justice Will Prevail!!"
+            },
+            {
+                "season": 23,
+                "episode": 5,
+                "id": "MA_5",
+                "title": "Luffy and Whitebeard"
+            },
+            {
+                "season": 23,
+                "episode": 6,
+                "id": "MA_6",
+                "title": "The Prisoners of Impel Down"
+            },
+            {
+                "season": 23,
+                "episode": 7,
+                "id": "MA_7",
+                "title": "The Whirl Spider"
+            },
+            {
+                "season": 23,
+                "episode": 8,
+                "id": "MA_8",
+                "title": "The Man Who Shook the World"
+            },
+            {
+                "season": 23,
+                "episode": 9,
+                "id": "MA_9",
+                "title": "Assault"
+            },
+            {
+                "season": 23,
+                "episode": 10,
+                "id": "MA_10",
+                "title": "Oris Plaza"
+            },
+            {
+                "season": 23,
+                "episode": 11,
+                "id": "MA_11",
+                "title": "The White Monster"
+            },
+            {
+                "season": 23,
+                "episode": 12,
+                "id": "MA_12",
+                "title": "The Execution Platform"
+            },
+            {
+                "season": 23,
+                "episode": 13,
+                "id": "MA_13",
+                "title": "The Times They Are A-Changin'"
+            },
+            {
+                "season": 23,
+                "episode": 14,
+                "id": "MA_14",
+                "title": "Thank You for Loving Me"
+            },
+            {
+                "season": 23,
+                "episode": 15,
+                "id": "MA_15",
+                "title": "Edward Newgate"
+            },
+            {
+                "season": 23,
+                "episode": 16,
+                "id": "MA_16",
+                "title": "A Gift to a New Era"
+            },
+            {
+                "season": 23,
+                "episode": 17,
+                "id": "MA_17",
+                "title": "The War's Conclusion"
+            },
+            {
+                "season": 24,
+                "episode": 1,
+                "id": "PW_1",
+                "title": "Creeping Future"
+            },
+            {
+                "season": 24,
+                "episode": 2,
+                "id": "PW_2",
+                "title": "Gray Terminal"
+            },
+            {
+                "season": 24,
+                "episode": 3,
+                "id": "PW_3",
+                "title": "Oath of Brotherhood"
+            },
+            {
+                "season": 24,
+                "episode": 4,
+                "id": "PW_4",
+                "title": "Sabo's Sea"
+            },
+            {
+                "season": 24,
+                "episode": 5,
+                "id": "PW_5",
+                "title": "Will of the Winds"
+            },
+            {
+                "season": 24,
+                "episode": 6,
+                "id": "PW_6",
+                "title": "Cheer"
+            },
+            {
+                "season": 24,
+                "episode": 7,
+                "id": "PW_7",
+                "title": "NEWS"
+            },
+            {
+                "season": 24,
+                "episode": 8,
+                "id": "PW_8",
+                "title": "3D2Y"
+            },
+            {
+                "season": 25,
+                "episode": 1,
+                "id": "RTS_1",
+                "title": "Two Years Later"
+            },
+            {
+                "season": 25,
+                "episode": 2,
+                "id": "RTS_2",
+                "title": "Island of New Beginnings"
+            },
+            {
+                "season": 25,
+                "episode": 3,
+                "id": "RTS_3",
+                "title": "Dive, Dive, Dive!"
+            },
+            {
+                "season": 26,
+                "episode": 1,
+                "id": "FI_1",
+                "title": "Into the Depths! The Kraken and the Caribou Pirates"
+            },
+            {
+                "season": 26,
+                "episode": 2,
+                "id": "FI_2",
+                "title": "Adventure in the Ocean Depths! 10 Kilometers Below the Surface!"
+            },
+            {
+                "season": 26,
+                "episode": 3,
+                "id": "FI_3",
+                "title": "Landing on Fishman Island! The Mermaid Cove and Gyoverly Hills!"
+            },
+            {
+                "season": 26,
+                "episode": 4,
+                "id": "FI_4",
+                "title": "Arrival at Coral Hill! The Nosebleed and the Devastating Prediction!"
+            },
+            {
+                "season": 26,
+                "episode": 5,
+                "id": "FI_5",
+                "title": "The King of Fishman Island Invited to Ryugu Palace!"
+            },
+            {
+                "season": 26,
+                "episode": 6,
+                "id": "FI_6",
+                "title": "The Mermaid Princess in Hard-Shell Tower! Shirahoshi of the Neptune Family!"
+            },
+            {
+                "season": 26,
+                "episode": 7,
+                "id": "FI_7",
+                "title": "The Shirahoshi Kidnapping Incident and the Curse of the Mato Mato!"
+            },
+            {
+                "season": 26,
+                "episode": 8,
+                "id": "FI_8",
+                "title": "The Beginning of the Vengeful Plan! Zoro vs. Hody!"
+            },
+            {
+                "season": 26,
+                "episode": 9,
+                "id": "FI_9",
+                "title": "At the Sea Forest! Arlong and Hody"
+            },
+            {
+                "season": 26,
+                "episode": 10,
+                "id": "FI_10",
+                "title": "Otohime, Fisher Tiger, and the Sun Pirates! The Fateful Encounter!"
+            },
+            {
+                "season": 26,
+                "episode": 11,
+                "id": "FI_11",
+                "title": "The Shocking Truth of Tiger! The End of the Sun Pirates"
+            },
+            {
+                "season": 26,
+                "episode": 12,
+                "id": "FI_12",
+                "title": "The Shipwrecked Celestial Dragon! A Bullet That Seals the Future"
+            },
+            {
+                "season": 26,
+                "episode": 13,
+                "id": "FI_13",
+                "title": "Shaking of the Kingdom! Luffy vs. Jinbe!"
+            },
+            {
+                "season": 26,
+                "episode": 14,
+                "id": "FI_14",
+                "title": "Gyoncorde Plaza Gathering! The Evil Drug's True Power"
+            },
+            {
+                "season": 26,
+                "episode": 15,
+                "id": "FI_15",
+                "title": "Hody's Dark Secret! The Straw Hats' Arrival"
+            },
+            {
+                "season": 26,
+                "episode": 16,
+                "id": "FI_16",
+                "title": "Hody's Dark Secret! The Straw Hats' Arrival"
+            },
+            {
+                "season": 26,
+                "episode": 17,
+                "id": "FI_17",
+                "title": "The General from the Future Land and the Crisis of Fishman Island's Destruction"
+            },
+            {
+                "season": 26,
+                "episode": 18,
+                "id": "FI_18",
+                "title": "I'll Protect Everything"
+            },
+            {
+                "season": 26,
+                "episode": 19,
+                "id": "FI_19",
+                "title": "What Are You?"
+            },
+            {
+                "season": 26,
+                "episode": 20,
+                "id": "FI_20",
+                "title": "Phantom"
+            },
+            {
+                "season": 26,
+                "episode": 21,
+                "id": "FI_21",
+                "title": "Death Is Also Revenge"
+            },
+            {
+                "season": 26,
+                "episode": 22,
+                "id": "FI_22",
+                "title": "The Path Towards the Sun"
+            },
+            {
+                "season": 26,
+                "episode": 23,
+                "id": "FI_23",
+                "title": "The Voice from the New World"
+            },
+            {
+                "season": 26,
+                "episode": 24,
+                "id": "FI_24",
+                "title": "The Hero's Hat"
+            },
+            {
+                "season": 27,
+                "episode": 1,
+                "id": "PH_1",
+                "title": "Punk Hazard"
+            },
+            {
+                "season": 27,
+                "episode": 2,
+                "id": "PH_2",
+                "title": "Adventure on the Burning Island"
+            },
+            {
+                "season": 27,
+                "episode": 3,
+                "id": "PH_3",
+                "title": "About My Torso"
+            },
+            {
+                "season": 27,
+                "episode": 4,
+                "id": "PH_4",
+                "title": "The Lake of Bandits"
+            },
+            {
+                "season": 27,
+                "episode": 5,
+                "id": "PH_5",
+                "title": "CC"
+            },
+            {
+                "season": 27,
+                "episode": 6,
+                "id": "PH_6",
+                "title": "Yeti Cool Brothers"
+            },
+            {
+                "season": 27,
+                "episode": 7,
+                "id": "PH_7",
+                "title": "Pirate Alliance"
+            },
+            {
+                "season": 27,
+                "episode": 8,
+                "id": "PH_8",
+                "title": "Blizzard with a Chance of Slime"
+            },
+            {
+                "season": 27,
+                "episode": 9,
+                "id": "PH_9",
+                "title": "My Name Is Kin'emon!!"
+            },
+            {
+                "season": 27,
+                "episode": 10,
+                "id": "PH_10",
+                "title": "Vergo and Joker! The Beginning of Caesar's Masterplan!"
+            },
+            {
+                "season": 27,
+                "episode": 11,
+                "id": "PH_11",
+                "title": "The Experiment Begins! Shinokuni Unleashed!"
+            },
+            {
+                "season": 27,
+                "episode": 12,
+                "id": "PH_12",
+                "title": "The Counterattack Begins!"
+            },
+            {
+                "season": 27,
+                "episode": 13,
+                "id": "PH_13",
+                "title": "G-5's Sacrifice and the Betrayal of the Vice Admiral!"
+            },
+            {
+                "season": 27,
+                "episode": 14,
+                "id": "PH_14",
+                "title": "The Mastermind in the Shadows and the Battle Between Gas and Rubber!"
+            },
+            {
+                "season": 27,
+                "episode": 15,
+                "id": "PH_15",
+                "title": "Vice Admiral vs. Vice Admiral and the Truth Behind Punk Hazard's Destruction!"
+            },
+            {
+                "season": 27,
+                "episode": 16,
+                "id": "PH_16",
+                "title": "The Dragon Named Momonosuke and the Menacing Snow Fruit User!"
+            },
+            {
+                "season": 27,
+                "episode": 17,
+                "id": "PH_17",
+                "title": "Zoro's Strongest One-Sword Style and Mocha's Plight!"
+            },
+            {
+                "season": 27,
+                "episode": 18,
+                "id": "PH_18",
+                "title": "Luffy and Law's All-out Attack! The Takeover of the New Era!"
+            },
+            {
+                "season": 27,
+                "episode": 19,
+                "id": "PH_19",
+                "title": "The Strongest Grizzly Magnum and the Assassins from Dressrosa!"
+            },
+            {
+                "season": 27,
+                "episode": 20,
+                "id": "PH_20",
+                "title": "Die for Me! The Dangerous Man Makes His Move!"
+            },
+            {
+                "season": 27,
+                "episode": 21,
+                "id": "PH_21",
+                "title": "The Alliance's Target and the Departure!"
+            },
+            {
+                "season": 27,
+                "episode": 22,
+                "id": "PH_22",
+                "title": "The Arrival of the Mysterious Man and the News Coo!"
+            },
+            {
+                "season": 28,
+                "episode": 1,
+                "id": "DR_1",
+                "title": "Arriving at Dressrosa! The Country of Passion, Love, and Toys!"
+            },
+            {
+                "season": 28,
+                "episode": 2,
+                "id": "DR_2",
+                "title": "Corrida Colosseum! The Great Tournament"
+            },
+            {
+                "season": 28,
+                "episode": 3,
+                "id": "DR_3",
+                "title": "The Colosseum of Many New Faces and Maynard the Pursuer!"
+            },
+            {
+                "season": 28,
+                "episode": 4,
+                "id": "DR_4",
+                "title": "Bellamy's Changed Motivations and B Block's Start!"
+            },
+            {
+                "season": 28,
+                "episode": 5,
+                "id": "DR_5",
+                "title": "B Block on Fire! Outlandish Competitors and King Punch!"
+            },
+            {
+                "season": 28,
+                "episode": 6,
+                "id": "DR_6",
+                "title": "To Green Bit! The Adventure in the Land of Dwarves!"
+            },
+            {
+                "season": 28,
+                "episode": 7,
+                "id": "DR_7",
+                "title": "Doflamingo Arrives! The Ultimate Schemer!"
+            },
+            {
+                "season": 28,
+                "episode": 8,
+                "id": "DR_8",
+                "title": "Closely Contested Block C! Lucy and Ucy!"
+            },
+            {
+                "season": 28,
+                "episode": 9,
+                "id": "DR_9",
+                "title": "C Block's Blazing Battle and the Forgotten of Dressrosa!"
+            },
+            {
+                "season": 28,
+                "episode": 10,
+                "id": "DR_10",
+                "title": "The Tontatta Rebellion and the C Block Finale!"
+            },
+            {
+                "season": 28,
+                "episode": 11,
+                "id": "DR_11",
+                "title": "A Sad Past! Rebecca and Soldier-san"
+            },
+            {
+                "season": 28,
+                "episode": 12,
+                "id": "DR_12",
+                "title": "D Block's Fiery Start and the Heavenly Demon's Revelation!"
+            },
+            {
+                "season": 28,
+                "episode": 13,
+                "id": "DR_13",
+                "title": "Law's New Strategy and the Colosseum's Underground Nightmare!"
+            },
+            {
+                "season": 28,
+                "episode": 14,
+                "id": "DR_14",
+                "title": "The Plight of the Riku Clan! The Lurking Hero Awaits in the Shadows!"
+            },
+            {
+                "season": 28,
+                "episode": 15,
+                "id": "DR_15",
+                "title": "Doflamingo's Relentless Pursuit"
+            },
+            {
+                "season": 28,
+                "episode": 16,
+                "id": "DR_16",
+                "title": "SOP Strategy"
+            },
+            {
+                "season": 28,
+                "episode": 17,
+                "id": "DR_17",
+                "title": "The Underground World"
+            },
+            {
+                "season": 28,
+                "episode": 18,
+                "id": "DR_18",
+                "title": "Fujitora's Outlook"
+            },
+            {
+                "season": 28,
+                "episode": 19,
+                "id": "DR_19",
+                "title": "Diamante and Pica"
+            },
+            {
+                "season": 28,
+                "episode": 20,
+                "id": "DR_20",
+                "title": "Captain"
+            },
+            {
+                "season": 28,
+                "episode": 21,
+                "id": "DR_21",
+                "title": "Usoland the Liar"
+            },
+            {
+                "season": 28,
+                "episode": 22,
+                "id": "DR_22",
+                "title": "Dressrosa in Turmoil"
+            },
+            {
+                "season": 28,
+                "episode": 23,
+                "id": "DR_23",
+                "title": "Bird Cage"
+            },
+            {
+                "season": 28,
+                "episode": 24,
+                "id": "DR_24",
+                "title": "Executive Officer Pica"
+            },
+            {
+                "season": 28,
+                "episode": 25,
+                "id": "DR_25",
+                "title": "Onward!! Army of Rogues"
+            },
+            {
+                "season": 28,
+                "episode": 26,
+                "id": "DR_26",
+                "title": "The State of the War"
+            },
+            {
+                "season": 28,
+                "episode": 27,
+                "id": "DR_27",
+                "title": "Battle"
+            },
+            {
+                "season": 28,
+                "episode": 28,
+                "id": "DR_28",
+                "title": "A Man's World"
+            },
+            {
+                "season": 28,
+                "episode": 29,
+                "id": "DR_29",
+                "title": "Trump Card"
+            },
+            {
+                "season": 28,
+                "episode": 30,
+                "id": "DR_30",
+                "title": "Secret Plan"
+            },
+            {
+                "season": 28,
+                "episode": 31,
+                "id": "DR_31",
+                "title": "The Operation Fruit"
+            },
+            {
+                "season": 28,
+                "episode": 32,
+                "id": "DR_32",
+                "title": "White Town"
+            },
+            {
+                "season": 28,
+                "episode": 33,
+                "id": "DR_33",
+                "title": "The Island of Fate: Minion"
+            },
+            {
+                "season": 28,
+                "episode": 34,
+                "id": "DR_34",
+                "title": "Cora-san"
+            },
+            {
+                "season": 28,
+                "episode": 35,
+                "id": "DR_35",
+                "title": "Bellamy the Pirate"
+            },
+            {
+                "season": 28,
+                "episode": 36,
+                "id": "DR_36",
+                "title": "The Spear of Elbaf and Don Sai"
+            },
+            {
+                "season": 28,
+                "episode": 37,
+                "id": "DR_37",
+                "title": "Cabbage and Lomeo"
+            },
+            {
+                "season": 28,
+                "episode": 38,
+                "id": "DR_38",
+                "title": "To Russian, with Love"
+            },
+            {
+                "season": 28,
+                "episode": 39,
+                "id": "DR_39",
+                "title": "Zoro vs. Pica"
+            },
+            {
+                "season": 28,
+                "episode": 40,
+                "id": "DR_40",
+                "title": "The Curse of Heart"
+            },
+            {
+                "season": 28,
+                "episode": 41,
+                "id": "DR_41",
+                "title": "In My Way"
+            },
+            {
+                "season": 28,
+                "episode": 42,
+                "id": "DR_42",
+                "title": "Gear Fourth"
+            },
+            {
+                "season": 28,
+                "episode": 43,
+                "id": "DR_43",
+                "title": "Gatz"
+            },
+            {
+                "season": 28,
+                "episode": 44,
+                "id": "DR_44",
+                "title": "Heaven and Earth"
+            },
+            {
+                "season": 28,
+                "episode": 45,
+                "id": "DR_45",
+                "title": "Prostration"
+            },
+            {
+                "season": 28,
+                "episode": 46,
+                "id": "DR_46",
+                "title": "Sabo's Adventure"
+            },
+            {
+                "season": 28,
+                "episode": 47,
+                "id": "DR_47",
+                "title": "Soldier-san's Conviction"
+            },
+            {
+                "season": 28,
+                "episode": 48,
+                "id": "DR_48",
+                "title": "Father and Sons"
+            },
+            {
+                "season": 29,
+                "episode": 1,
+                "id": "ZO_1",
+                "title": "Zou"
+            },
+            {
+                "season": 29,
+                "episode": 2,
+                "id": "ZO_2",
+                "title": "The Mink Tribe"
+            },
+            {
+                "season": 29,
+                "episode": 3,
+                "id": "ZO_3",
+                "title": "At Rightflank Fortress"
+            },
+            {
+                "season": 29,
+                "episode": 4,
+                "id": "ZO_4",
+                "title": "Duke Inuarashi and Master Nekomamushi"
+            },
+            {
+                "season": 29,
+                "episode": 5,
+                "id": "ZO_5",
+                "title": "The Curly Hat Pirates Arrive"
+            },
+            {
+                "season": 29,
+                "episode": 6,
+                "id": "ZO_6",
+                "title": "Tea Party Invitation"
+            },
+            {
+                "season": 29,
+                "episode": 7,
+                "id": "ZO_7",
+                "title": "Let's Go See Master Nekomamushi"
+            },
+            {
+                "season": 29,
+                "episode": 8,
+                "id": "ZO_8",
+                "title": "Raizo of the Mist"
+            },
+            {
+                "season": 29,
+                "episode": 9,
+                "id": "ZO_9",
+                "title": "Momonosuke, Heir of the Kozuki Family"
+            },
+            {
+                "season": 29,
+                "episode": 10,
+                "id": "ZO_10",
+                "title": "Understood"
+            },
+            {
+                "season": 30,
+                "episode": 1,
+                "id": "WC_1",
+                "title": "A World Abuzz"
+            },
+            {
+                "season": 30,
+                "episode": 2,
+                "id": "WC_2",
+                "title": "0 and 4"
+            },
+            {
+                "season": 30,
+                "episode": 3,
+                "id": "WC_3",
+                "title": "Totto Land"
+            },
+            {
+                "season": 30,
+                "episode": 4,
+                "id": "WC_4",
+                "title": "Pirate Emperor, Charlotte Linlin"
+            },
+            {
+                "season": 30,
+                "episode": 5,
+                "id": "WC_5",
+                "title": "Adventure in the Mysterious Forest"
+            },
+            {
+                "season": 30,
+                "episode": 6,
+                "id": "WC_6",
+                "title": "Vinsmoke Judge"
+            },
+            {
+                "season": 30,
+                "episode": 7,
+                "id": "WC_7",
+                "title": "Lola's Vivre Card"
+            },
+            {
+                "season": 30,
+                "episode": 8,
+                "id": "WC_8",
+                "title": "Luffy vs. Commander Cracker"
+            },
+            {
+                "season": 30,
+                "episode": 9,
+                "id": "WC_9",
+                "title": "The Iron Mask"
+            },
+            {
+                "season": 30,
+                "episode": 10,
+                "id": "WC_10",
+                "title": "To the East Blue"
+            },
+            {
+                "season": 30,
+                "episode": 11,
+                "id": "WC_11",
+                "title": "Luffy vs. Sanji"
+            },
+            {
+                "season": 30,
+                "episode": 12,
+                "id": "WC_12",
+                "title": "Forces of Rage"
+            },
+            {
+                "season": 30,
+                "episode": 13,
+                "id": "WC_13",
+                "title": "Luffy and Big Mom"
+            },
+            {
+                "season": 30,
+                "episode": 14,
+                "id": "WC_14",
+                "title": "A Ray of Light"
+            },
+            {
+                "season": 30,
+                "episode": 15,
+                "id": "WC_15",
+                "title": "Germa's Failure"
+            },
+            {
+                "season": 30,
+                "episode": 16,
+                "id": "WC_16",
+                "title": "Not Here"
+            },
+            {
+                "season": 30,
+                "episode": 17,
+                "id": "WC_17",
+                "title": "Liar"
+            },
+            {
+                "season": 30,
+                "episode": 18,
+                "id": "WC_18",
+                "title": "Rook"
+            },
+            {
+                "season": 30,
+                "episode": 19,
+                "id": "WC_19",
+                "title": "Emperor Assassination Plan"
+            },
+            {
+                "season": 30,
+                "episode": 20,
+                "id": "WC_20",
+                "title": "Veteran Actor"
+            },
+            {
+                "season": 30,
+                "episode": 21,
+                "id": "WC_21",
+                "title": "The Honorable"
+            },
+            {
+                "season": 30,
+                "episode": 22,
+                "id": "WC_22",
+                "title": "Hey, Mother"
+            },
+            {
+                "season": 30,
+                "episode": 23,
+                "id": "WC_23",
+                "title": "HAPPY BIRTHDAY"
+            },
+            {
+                "season": 30,
+                "episode": 24,
+                "id": "WC_24",
+                "title": "Under Siege"
+            },
+            {
+                "season": 30,
+                "episode": 25,
+                "id": "WC_25",
+                "title": "You Can Do It, Caesar!!"
+            },
+            {
+                "season": 30,
+                "episode": 26,
+                "id": "WC_26",
+                "title": "Become My Servant"
+            },
+            {
+                "season": 30,
+                "episode": 27,
+                "id": "WC_27",
+                "title": "A Woman's Honor"
+            },
+            {
+                "season": 30,
+                "episode": 28,
+                "id": "WC_28",
+                "title": "Mink Pedro, Captain of the Guardians"
+            },
+            {
+                "season": 30,
+                "episode": 29,
+                "id": "WC_29",
+                "title": "Zero Escape"
+            },
+            {
+                "season": 30,
+                "episode": 30,
+                "id": "WC_30",
+                "title": "Wave Room"
+            },
+            {
+                "season": 30,
+                "episode": 31,
+                "id": "WC_31",
+                "title": "Merienda"
+            },
+            {
+                "season": 30,
+                "episode": 32,
+                "id": "WC_32",
+                "title": "Way of Life"
+            },
+            {
+                "season": 30,
+                "episode": 33,
+                "id": "WC_33",
+                "title": "Lion"
+            },
+            {
+                "season": 30,
+                "episode": 34,
+                "id": "WC_34",
+                "title": "Unknown Mama"
+            },
+            {
+                "season": 30,
+                "episode": 35,
+                "id": "WC_35",
+                "title": "They Believe in Me"
+            },
+            {
+                "season": 30,
+                "episode": 36,
+                "id": "WC_36",
+                "title": "Pirate Luffy vs. Commander Katakuri"
+            },
+            {
+                "season": 30,
+                "episode": 37,
+                "id": "WC_37",
+                "title": "One Last Thing"
+            },
+            {
+                "season": 30,
+                "episode": 38,
+                "id": "WC_38",
+                "title": "BAD END MUSICAL"
+            },
+            {
+                "season": 30,
+                "episode": 39,
+                "id": "WC_39",
+                "title": "END ROLL"
+            },
+            {
+                "season": 31,
+                "episode": 1,
+                "id": "REV_1",
+                "title": "The Fifth Emperor"
+            },
+            {
+                "season": 31,
+                "episode": 2,
+                "id": "REV_2",
+                "title": "A Beautiful World"
+            },
+            {
+                "season": 31,
+                "episode": 3,
+                "id": "REV_3",
+                "title": "The Empty Throne"
+            },
+            {
+                "season": 32,
+                "episode": 1,
+                "id": "WA_1",
+                "title": "Onward to Wano"
+            },
+            {
+                "season": 32,
+                "episode": 2,
+                "id": "WA_2",
+                "title": "Seppuku"
+            },
+            {
+                "season": 32,
+                "episode": 3,
+                "id": "WA_3",
+                "title": "Amigasa Village"
+            },
+            {
+                "season": 32,
+                "episode": 4,
+                "id": "WA_4",
+                "title": "Tsuru Returns the Favor"
+            },
+            {
+                "season": 32,
+                "episode": 5,
+                "id": "WA_5",
+                "title": "Okobore Town"
+            },
+            {
+                "season": 32,
+                "episode": 6,
+                "id": "WA_6",
+                "title": "Wano's Grand Sumo Tournament"
+            },
+            {
+                "season": 32,
+                "episode": 7,
+                "id": "WA_7",
+                "title": "The Provisions Ship"
+            },
+            {
+                "season": 32,
+                "episode": 8,
+                "id": "WA_8",
+                "title": "The Ruins of Oden Castle"
+            },
+            {
+                "season": 32,
+                "episode": 9,
+                "id": "WA_9",
+                "title": "I Love Oden"
+            },
+            {
+                "season": 32,
+                "episode": 10,
+                "id": "WA_10",
+                "title": "Shutenmaru"
+            },
+            {
+                "season": 32,
+                "episode": 11,
+                "id": "WA_11",
+                "title": "Emperor Kaido vs. Luffy"
+            },
+            {
+                "season": 32,
+                "episode": 12,
+                "id": "WA_12",
+                "title": "Hah"
+            },
+            {
+                "season": 32,
+                "episode": 13,
+                "id": "WA_13",
+                "title": "Void"
+            },
+            {
+                "season": 32,
+                "episode": 14,
+                "id": "WA_14",
+                "title": "Otoko the Kamuro"
+            },
+            {
+                "season": 32,
+                "episode": 15,
+                "id": "WA_15",
+                "title": "Oiran Komurasaki Arrives"
+            },
+            {
+                "season": 32,
+                "episode": 16,
+                "id": "WA_16",
+                "title": "Soba Mask"
+            },
+            {
+                "season": 32,
+                "episode": 17,
+                "id": "WA_17",
+                "title": "The Shogun and the Oiran"
+            },
+            {
+                "season": 32,
+                "episode": 18,
+                "id": "WA_18",
+                "title": "Hyogoro the Flower"
+            },
+            {
+                "season": 32,
+                "episode": 19,
+                "id": "WA_19",
+                "title": "Gyukimaru of Oihagi Bridge"
+            },
+            {
+                "season": 32,
+                "episode": 20,
+                "id": "WA_20",
+                "title": "A Woman's Secret"
+            },
+            {
+                "season": 32,
+                "episode": 21,
+                "id": "WA_21",
+                "title": "Sparks of Rebellion"
+            },
+            {
+                "season": 32,
+                "episode": 22,
+                "id": "WA_22",
+                "title": "Shimotsuki Yasuie, the Daimyo of Hakumai"
+            },
+            {
+                "season": 32,
+                "episode": 23,
+                "id": "WA_23",
+                "title": "SMILE"
+            },
+            {
+                "season": 32,
+                "episode": 24,
+                "id": "WA_24",
+                "title": "Olin"
+            },
+            {
+                "season": 32,
+                "episode": 25,
+                "id": "WA_25",
+                "title": "Queen vs. Olin"
+            },
+            {
+                "season": 32,
+                "episode": 26,
+                "id": "WA_26",
+                "title": "Mummy"
+            },
+            {
+                "season": 32,
+                "episode": 27,
+                "id": "WA_27",
+                "title": "A Soldier's Dream"
+            },
+            {
+                "season": 32,
+                "episode": 28,
+                "id": "WA_28",
+                "title": "RAMPAGE"
+            },
+            {
+                "season": 32,
+                "episode": 29,
+                "id": "WA_29",
+                "title": "Once a Fox"
+            }
+        ]
+    }
+}
