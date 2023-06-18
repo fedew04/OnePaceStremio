@@ -234,12 +234,6 @@
                 "title": "The Legend Has Begun"
             },
             {
-                "season": 7,
-                "episode": 4,
-                "id": "COVER_KOBYMEPPO_1",
-                "title": "[Cover Story] The Trials of Koby-Meppo"
-            },
-            {
                 "season": 8,
                 "episode": 1,
                 "id": "RM_1",
@@ -262,6 +256,12 @@
                 "episode": 2,
                 "id": "WH_2",
                 "title": "The Secret Criminal Organization"
+            },
+            {
+                "season": 9,
+                "episode": 3,
+                "id": "COVER_KOBYMEPPO_1",
+                "title": "[Cover Story] The Trials of Koby-Meppo"
             },
             {
                 "season": 10,
@@ -333,7 +333,7 @@
                 "season": 11,
                 "episode": 7,
                 "id": "DI_7",
-                "title": "Unreleased"
+                "title": "The Skies of Drum"
             },
             {
                 "season": 11,
