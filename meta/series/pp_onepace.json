@@ -2518,6 +2518,12 @@
                 "episode": 31,
                 "id": "WA_31",
                 "title": "Big News"
+            },
+            {
+                "season": 32,
+                "episode": 32,
+                "id": "WA_32",
+                "title": "Ultimate"
             }
         ]
     }
