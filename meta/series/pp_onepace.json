@@ -2524,6 +2524,12 @@
                 "episode": 32,
                 "id": "WA_32",
                 "title": "Ultimate"
+            },
+            {
+                "season": 32,
+                "episode": 33,
+                "id": "WA_33",
+                "title": "Unreleased"
             }
         ]
     }
