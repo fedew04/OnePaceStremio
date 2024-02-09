@@ -795,7 +795,7 @@
                 "season": 16,
                 "episode": 16,
                 "id": "WS_16",
-                "title": "Unreleased"
+                "title": "Aqua Laguna"
             },
             {
                 "season": 16,
@@ -2578,6 +2578,12 @@
                 "episode": 2,
                 "id": "EH_2",
                 "title": "The Matter Involving Captain Koby"
+            },
+            {
+                "season": 33,
+                "episode": 3,
+                "id": "EH_3",
+                "title": "Future Island Egghead"
             }
         ]
     }
