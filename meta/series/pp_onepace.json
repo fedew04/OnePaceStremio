@@ -2584,6 +2584,18 @@
                 "episode": 3,
                 "id": "EH_3",
                 "title": "Future Island Egghead"
+            },
+            {
+                "season": 33,
+                "episode": 4,
+                "id": "EH_4",
+                "title": "Adventure in the Land of Science"
+            },
+            {
+                "season": 33,
+                "episode": 5,
+                "id": "EH_5",
+                "title": "The Six Vegapunks"
             }
         ]
     }
