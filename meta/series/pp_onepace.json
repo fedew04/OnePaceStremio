@@ -2782,13 +2782,18 @@
                 "episode": 7,
                 "id": "EH_7",
                 "title": "Punk Records"
-            }
-            ,
+            },
             {
                 "season": 33,
                 "episode": 8,
                 "id": "EH_8",
                 "title": "The Strongest Form of Humanity"
+            },
+            {
+                "season": 33,
+                "episode": 9,
+                "id": "EH_9",
+                "title": "The Weight of Memory"
             }
         ]
     }
