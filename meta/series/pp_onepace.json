@@ -2589,7 +2589,7 @@
                 "season": 32,
                 "episode": 42,
                 "id": "WA_42",
-                "title": "Unreleased"
+                "title": "Kin'emon's Clever Ruse"
             },
             {
                 "season": 32,
@@ -2812,6 +2812,12 @@
                 "episode": 12,
                 "id": "EH_12",
                 "title": "Escape Limit"
+            },
+            {
+                "season": 33,
+                "episode": 13,
+                "id": "EH_13",
+                "title": "Emperor Red Hair's Pirate Crew"
             }
         ]
     }
