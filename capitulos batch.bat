@@ -1,9 +1,9 @@
 cd C:\Users\fedew\stremio-onepace\OnePaceStremio\stream\series
 @echo off
 
-set arc=REV
-set episode=3
-set hash=4d9497e964d820760adf11e47664df3091b808f2
+set arc=SY
+set episode=7
+set hash=6c29dedaa9bef46c73a04ebe2c8c9761b92cb9eb
 
 CALL :setText %arc% %episode% %hash% 
 
