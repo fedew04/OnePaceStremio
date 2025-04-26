@@ -4,9 +4,16 @@
     "type": "series",
     "name": "One Pace",
     "poster": "https://i.pinimg.com/originals/eb/85/c4/eb85c4376b474030b80afa80ad1cd13a.jpg",
-    "genres": ["Animation", "Comedy", "Adventure", "Action"],
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Adventure",
+      "Action"
+    ],
     "description": "One Pace is a fan project that recuts the One Piece anime in an endeavor to bring it more in line with the pacing of the original manga by Eiichiro Oda. The team accomplishes this by removing filler scenes not present in the source material. This process requires meticulous editing and quality control to ensure seamless music and transitions.",
-    "director": ["Toei Animation"],
+    "director": [
+      "Toei Animation"
+    ],
     "logo": "https://onepace.net/_next/static/media/logo.0bbcd6da.svg",
     "background": "https://wallpaperaccess.com/full/17350.jpg",
     "videos": [
@@ -662,7 +669,7 @@
         "season": 14,
         "episode": 24,
         "id": "SK_24",
-        "title": "Unreleased"
+        "title": "I Made It Here"
       },
       {
         "season": 15,
@@ -2716,7 +2723,7 @@
         "id": "WA_63",
         "title": "Unreleased"
       },
-            {
+      {
         "season": 32,
         "episode": 64,
         "id": "WA_64",
