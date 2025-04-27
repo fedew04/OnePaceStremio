@@ -1,9 +1,9 @@
 cd C:\Users\fedew\stremio-onepace\OnePaceStremio\stream\series
 @echo off
 
-set arc=EH
-set ep=10
-set hash=a62e157454b08c89e602aad942c7468f9748b919
+set arc=OR
+set ep=2
+set hash=9a870a7c01d716bad7330b1a14ef687a3062c955
 
 rem skypiea: SK
 rem wano: WA
