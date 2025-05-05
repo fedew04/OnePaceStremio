@@ -1,11 +1,10 @@
 cd C:\Users\fedew\stremio-onepace\OnePaceStremio\stream\series
 @echo off
 
-set arc=OR
-set ep=2
-set hash=9a870a7c01d716bad7330b1a14ef687a3062c955
+set arc=EH
+set ep=11
+set hash=2137e92a3febe8d7865fac2b7625d1647f7ef6a7
 
-rem skypiea: SK
 rem wano: WA
 rem egghead: EH
 rem arlong park: AR
