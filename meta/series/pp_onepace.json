@@ -673,36 +673,42 @@
       {
         "season": 15,
         "episode": 1,
+        "id": "LR_0",
+        "title": "Prologue"
+      },
+      {
+        "season": 15,
+        "episode": 2,
         "id": "LR_1",
         "title": "Adventure on a Long Island"
       },
       {
         "season": 15,
-        "episode": 2,
+        "episode": 3,
         "id": "LR_2",
         "title": "Donut Race!!"
       },
       {
         "season": 15,
-        "episode": 3,
+        "episode": 4,
         "id": "LR_3",
         "title": "Groggy Ring!!"
       },
       {
         "season": 15,
-        "episode": 4,
+        "episode": 5,
         "id": "LR_4",
         "title": "Combat"
       },
       {
         "season": 15,
-        "episode": 5,
+        "episode": 6,
         "id": "LR_5",
         "title": "K.O."
       },
       {
         "season": 15,
-        "episode": 6,
+        "episode": 7,
         "id": "LR_6",
         "title": "Navy HQ Admiral Aokiji"
       },
@@ -2630,7 +2636,7 @@
         "season": 32,
         "episode": 48,
         "id": "WA_48",
-        "title": "Unreleased"
+        "title": "Retainers of Glory"
       },
       {
         "season": 32,
