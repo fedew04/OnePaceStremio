@@ -1,16 +1,24 @@
-cd C:\Users\fedew\stremio-onepace\OnePaceStremio\stream\series
+cd C:\Users\fedew2\Documents\OnePaceStremio\stream\series
 @echo off
 
-set arc=RO
-set episode=4
-set hash=cdab4a928dbbff643bbe5531f216eb36a60c85af
+:: --- CONFIGURATION ---
+set arc=SY
+set total_episodes=7
+set hash=f6c32b46bb55924888aed6815bfa0edb7287a45e
+:: ---------------------
 
-CALL :setText %arc% %episode% %hash% 
+FOR /L %%i IN (1, 1, %total_episodes%) DO (
+    CALL :setText %arc% %%i %hash%
+)
 
+echo Generation complete.
 EXIT /B %ERRORLEVEL%
+
 :setText
 set filename=%~1_%~2.json
 set /a fileid=%~2-1
+
+echo Creating file: %filename% (FileIdx: %fileid%)
 
 echo { > %filename%
 echo "streams": [ >> %filename%
