@@ -2,8 +2,8 @@ cd C:\Users\Fede\Documents\OnePaceStremio\stream\series
 @echo off
 
 set arc=WA
-set ep=60
-set hash=27afaf13601c48f68e9832517848ee416973f9ed
+set ep=61
+set hash=5a7292f7b9455dbb511a944862f7394f7982b5e9
 
 rem wano: WA
 rem egghead: EH
