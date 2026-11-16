@@ -1,7 +1,7 @@
 {
   "name": "stremio-onepace",
   "version": "1.0.0",
-  "description": "One Pace addon for Stremio",
+  "description": "OUTDATED - Get the new addon here: https://onepace.e6ip.com/ ",
   "main": "server.js",
   "scripts": {
     "test": "node test/*",
